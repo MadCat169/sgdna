@@ -1,1 +1,47 @@
-nikunj-vihari --- darshan by bhajan --- new york--locomotive--pakka--local
+21st Jan-23 jan
+
+below are the form filling process -- give generic term for it.
+
+Statutory Forms
+STC & Policies 
+PF passbook copy
+Getting to know the office environment, meeting peopleinteractions, getting the head up on work environment teams, getting required acccess for office environment (filling forms for it)- get generic term for it.
+
+
+26th Jan to 6th Feb
+We Care, SPOC & E-Learning 
+
+| Sr. No. | Course Name (Use this exact name to search in BOOST) | Training Link                           |
+| ------- | ---------------------------------------------------- | --------------------------------------- |
+| 1       | ADHERE +                                             | SGU Adhere+ EN                          |
+| 2       | Code of Conduct for Employees                        | Code of Conduct for Employees           |
+| 3       | Zero Tolerance to Sexual Harassment at Workplace     | Zero Tolerance to Sexual Harassment     |
+| 4       | ACT: Anti-Corruption Training (Only for M13 & Above) | Corporate ACT: Anti-Corruption Training |
+| 5       | SGU – CLIMATE – Climate 2050                         | SGU – Climate 2050                      |
+| 6       | Group EHS – Road Risks                               | Group EHS – Road Risks                  |
+| 7       | Corporate – COMPLY, it's part of the game            | SGU – Comply, It’s Part of the Game     |
+
+9th-13th
+16th-20th
+23rd- 27th Feb
+
+taking insights/shadowing colleaguea on the his projects, workflows, understanding the workflows in ticket raisings, process, hierarchies, project concepts, do's and don'ts  as per the company project, connecting relevant people, understanding heads up on tech stacks, grabbing the content to study, hovering/reading the relatable content on confluence page, taking notes, heads up on understanding the tech stack that will surround devops role.
+Cyber Security Training also.
+understanding synapse, power bi and other such tools, doing practicals on personal accounts, creating demo environents, personal sandboxes (since no access).
+Bhavesh my colleagues explained me the scenarios he is working on, the errors he faced, the environment he worked, the people he connected, evdrops on his meetings, power bi cicd , snyanpse cicd.
+I checked and tried learning the concepts if anything is missed in my knowledge, 
+reading the YAMLS, understanding the stage workflow of the projects, deploying the personal pipelines and stages in personal sandboxes.
+I have spent ample amount of time on tech videos related to it which has helped me gather knowledge, understanding concepts of azure devops in data engineering.
+readind datadog documents.
+attending townhalls 
+
+
+now this is the content, divide it in two parts so I split it in three weeks. try making it elaborate by completely layman. topic name/ short description. make it in excel format
+
+
+2nd march - 13rd march.
+reading the documents, watching tech videos,  understanding GitHub and it's use in the data engineering deploying it in demo environments. sititng w colleagues undestadning and iinteacting the work they working on.
+attending inductions which was whole day
+
+	
+
