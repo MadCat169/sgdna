@@ -1,0 +1,13 @@
+name: Raut workflow
+
+on:
+  schedule:
+    - cron: "27 20 * * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Print Message
+        run: echo "Hello from scheduled workflow by shubham raut"
