@@ -3,7 +3,7 @@ name: Shubham Raut
 on:
   push:
     branches:
-      - main
+      - none
 
 jobs:
   demo:
