@@ -1,9 +1,9 @@
 name: Shubham Raut
 
-on:
-  push:
-    branches:
-      - none
+# on:
+#  push:
+#    branches:
+#      - main
 
 jobs:
   demo:
