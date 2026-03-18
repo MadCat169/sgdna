@@ -13,14 +13,5 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build
-        run: npm run build
-
       - name: Deploy app
         run: echo "jinkla na BHAU"
